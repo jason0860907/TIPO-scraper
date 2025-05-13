@@ -1,0 +1,10 @@
+[project]
+name = "TIPO-scraper"
+version = "0.1.0"
+description = "A scraper for TIPO patent data."
+dependencies = [
+    "beautifulsoup4",
+    "selenium",
+    "loguru",
+]
+requires-python = ">=3.12"
